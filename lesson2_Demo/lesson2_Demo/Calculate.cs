@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace lesson2_Demo
 {
-    class Calculate
+  public  class Calculate
     {
-        public int Func1(int a,int b)
+        public static int Func1(int a,int b)
         {
             return a + b;
         }
