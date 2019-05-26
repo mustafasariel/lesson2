@@ -11,7 +11,7 @@ namespace lesson2_Demo
         static void Main(string[] args)
         {
 
-            Console.WriteLine(new Calculate().Func1(3, 4));
+            Console.WriteLine(Calculate.Func1(3, 4));
         }
     }
 }
