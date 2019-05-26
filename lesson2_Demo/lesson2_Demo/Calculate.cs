@@ -6,12 +6,11 @@ using System.Threading.Tasks;
 
 namespace lesson2_Demo
 {
-    class Program
+    class Calculate
     {
-        static void Main(string[] args)
+        public int Func1(int a,int b)
         {
-
-            Console.WriteLine(new Calculate().Func1(3, 4));
+            return a + b;
         }
     }
 }
