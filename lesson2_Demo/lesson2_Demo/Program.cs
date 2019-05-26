@@ -11,6 +11,7 @@ namespace lesson2_Demo
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
+            Console.WriteLine("hello2");
         }
     }
 }
