@@ -8,9 +8,13 @@ namespace lesson2_Demo
 {
   public  class Calculate
     {
-        public static int Func1(int a,int b)
+        public static int Sum(int a,int b)
         {
             return a + b;
+        }
+        public static int Multiply(int a, int b)
+        {
+            return a * b;
         }
     }
 }
