@@ -16,5 +16,13 @@ namespace lesson2_Demo
         {
             return a * b;
         }
+        public static double Division(int a, int b)
+        {
+            if (a==0)
+            {
+                return 0;
+            }
+            return a / b;
+        }
     }
 }
