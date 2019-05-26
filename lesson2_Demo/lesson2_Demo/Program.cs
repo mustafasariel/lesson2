@@ -12,6 +12,7 @@ namespace lesson2_Demo
         {
             Console.WriteLine("hello");
             Console.WriteLine("hello2");
+            Console.WriteLine("hello3");
         }
     }
 }
